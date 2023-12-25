@@ -1,5 +1,6 @@
 # Interal-CronusZen
-![World's Best AI Aimbot Banner](<p align="center"><img src="https://cdn.discordapp.com/attachments/1188706202721460234/1188734875952484392/standard_9.gif?ex=659b9aa0&is=658925a0&hm=0409bd993d0e03ce81902207742783b06c137f700bcb468429359dba3469bc48&"/>)
+![World's Best AI Aimbot Banner]
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1167635836985159713/1167640755691606147/image-removebg-preview.png?ex=654edd31&is=653c6831&hm=c94224383ff100d108ed239cd8ef044ebef086043562d83c03d05f17241bb30e&"/>
 
 > Injector
  - Working injector on all winvers is included, check the release folder
