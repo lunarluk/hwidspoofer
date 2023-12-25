@@ -1,4 +1,4 @@
-# Interal-Zen
+# Interal-CronusZen
 > Injector
  - Working injector on all winvers is included, check the release folder
  
